@@ -24,7 +24,7 @@ Your data is stored in a single `.crypt` file – only you can read it with your
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/moscow-professor-codehub/crypto-journal.git
+git clone https://github.com/moscow-professor-codehub/CryptoJournal.git
 cd crypto-journal
 ```
 
