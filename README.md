@@ -45,7 +45,7 @@ pyspellchecker>=0.7.0  # optional, for spell checking
 
 ### 3. Run the application
 ```bash
-python crypto_journal.py
+python main.py
 ```
 
 ---
